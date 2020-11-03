@@ -2,7 +2,7 @@
 
 ## Harjoitustyö ja laskarit
 
-Tänne tulee **alustavasti** kurssin harjoitustyö, josta tulee *jotain*
+Tänne tulee **alustavasti** kurssin harjoitustyö, josta tulee *jotain*?
 
 ## Tehtävät
 

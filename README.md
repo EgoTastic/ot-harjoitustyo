@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka
 
-## Harjoitustyö ja laskarit
+## Harjoitustyö
 
 Tänne tulee **alustavasti** kurssin harjoitustyö, josta tulee *jotain*?
 

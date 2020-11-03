@@ -1,4 +1,3 @@
-Miika-MBP:ot_viikko1 miikakoskela$ git log --stat | cat
 commit 50307623f5d05ea63681c98d972413ce69812674
 Author: Miika <miika.f.koskela@gmail.com>
 Date:   Tue Nov 3 18:51:23 2020 +0200

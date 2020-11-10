@@ -2,9 +2,12 @@
 
 ## Harjoitustyö
 
-Tänne tulee **alustavasti** kurssin harjoitustyö, josta tulee *jotain*?
+### Dokumentaatio. 
+  
+  [Vaatimusmäärittely](https://github.com/EgoTastic/ot-harjoitustyo/blob/main/LeagueCounterPicker/Dokumentaatio/vaatimusmäärittely.md)  
+  [Työaikakirjanpito](https://github.com/EgoTastic/ot-harjoitustyo/blob/main/LeagueCounterPicker/Dokumentaatio/työaikakirjanpito.md)
 
-## Tehtävät
+## Laskarit
 
 ### Viikko 1
 
